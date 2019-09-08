@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Wallenpaupack ",
+    "image": "assets/images/beer1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Captain Lawrence",
+    "image": "assets/images/beer2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Troeg's",
+    "image": "assets/images/beer3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Alchemist",
+    "image": "assets/images/beer4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "TreeHouse",
+    "image": "assets/images/beer5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Ommegang",
+    "image": "assets/images/beer6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Left Hand",
+    "image": "assets/images/beer7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Adroit Theory",
+    "image": "assets/images/beer8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Dogfish",
+    "image": "assets/images/beer9.jpg",
+    "clicked": false
+  },
+
+  {
+    "id": 10,
+    "name": "Breaker",
+    "image": "assets/images/beer10.jpg",
+    "clicked": false
+  },
+
+  {
+    "id": 11,
+    "name": "Levante",
+    "image": "assets/images/beer11.jpg",
+    "clicked": false
+  },
+
+  {
+    "id": 12,
+    "name": "Toppling Goliath",
+    "image": "assets/images/beer12.jpg",
+    "clicked": false
+  }
+]

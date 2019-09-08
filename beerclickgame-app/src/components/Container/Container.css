@@ -1,0 +1,13 @@
+.containerWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 200px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 70%;
+  grid-gap: 25px;
+}
