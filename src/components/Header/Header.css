@@ -2,7 +2,7 @@
 #scoreDiv {
   font-family: "Condiment", cursive;
   font-size: 40px;
-  text-shadow: 3px 3px 5px steelblue;
+  text-shadow: 3px 3px 5px orangered;
 }
 
 #headerContainer > #directions {
@@ -11,7 +11,7 @@
 }
 
 #headerContainer {
-  background-color: #191970;
+  background-color: orange;
   color: white;
   font-size: 30px;
   padding: 30px 15px;
