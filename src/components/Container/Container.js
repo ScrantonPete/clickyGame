@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Container.css";
-import beerCards from "../../beers.json.js";
+import beerCards from "../../beers.json";
 import Card from "../Card";
 import Header from "../Header/Header";
 
