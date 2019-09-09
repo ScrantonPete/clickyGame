@@ -36,19 +36,24 @@ class Container extends Component {
   };
 
   handleClick = name => {
+    console.log("Brewery - Beer: " + name);
     let guessedCorrect = false;
     const newbeers = this.state.beers.map(beer => {
       const newPic = { ...beer };
       if (newPic.name === name) {
         if (!newPic.clicked) {
-          console.log("Already guessed------------");
           newPic.clicked = true;
           guessedCorrect = true;
         }
       }
       return newPic;
     });
-    console.log("GUESSED CORRECT: ", guessedCorrect);
+    console.log("Correct Guess?: ", guessedCorrect);
+    // console.log(guessedCorrect);
+    // console.log("Brewery - Beer: " + beer.name);
+    // console.log("Untappd url: " + newPic.unTappd);
+    // console.log("Brewery Webpage: " + newPic.url);
+
     guessedCorrect ? this.handleCorrect(newbeers) : this.handleWrong(newbeers);
   };
 
