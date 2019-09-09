@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Container.css";
-import beerCards from "../../beers.json";
+import beerCards from "../../beers.json.js";
 import Card from "../Card";
 import Header from "../Header/Header";
 
@@ -36,7 +36,7 @@ class Container extends Component {
   };
 
   handleClick = name => {
-    console.log("Brewery - Beer: " + name);
+    console.log("BEER: " + name);
     let guessedCorrect = false;
     const newbeers = this.state.beers.map(beer => {
       const newPic = { ...beer };
