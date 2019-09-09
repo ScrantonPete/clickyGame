@@ -1,6 +1,6 @@
 {
   "homepage": "https://ScrantonPete.github.io/clickyGame",
-  "name": "beerclickgame-app",
+  "name": "clickyGame-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
