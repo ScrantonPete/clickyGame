@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ScrantonPete/clickyGame/static/css/main.e949839c.chunk.css",
-    "main.js": "/ScrantonPete/clickyGame/static/js/main.b2327c21.chunk.js",
-    "main.js.map": "/ScrantonPete/clickyGame/static/js/main.b2327c21.chunk.js.map",
+    "main.js": "/ScrantonPete/clickyGame/static/js/main.1f45742d.chunk.js",
+    "main.js.map": "/ScrantonPete/clickyGame/static/js/main.1f45742d.chunk.js.map",
     "runtime~main.js": "/ScrantonPete/clickyGame/static/js/runtime~main.fb8d2443.js",
     "runtime~main.js.map": "/ScrantonPete/clickyGame/static/js/runtime~main.fb8d2443.js.map",
     "static/js/2.2dd37698.chunk.js": "/ScrantonPete/clickyGame/static/js/2.2dd37698.chunk.js",
     "static/js/2.2dd37698.chunk.js.map": "/ScrantonPete/clickyGame/static/js/2.2dd37698.chunk.js.map",
     "index.html": "/ScrantonPete/clickyGame/index.html",
-    "precache-manifest.bed3e2f0a44791b8b8b433e5d82b1525.js": "/ScrantonPete/clickyGame/precache-manifest.bed3e2f0a44791b8b8b433e5d82b1525.js",
+    "precache-manifest.0dd5399c9c61b10ce5257f7e43c68d04.js": "/ScrantonPete/clickyGame/precache-manifest.0dd5399c9c61b10ce5257f7e43c68d04.js",
     "service-worker.js": "/ScrantonPete/clickyGame/service-worker.js",
     "static/css/main.e949839c.chunk.css.map": "/ScrantonPete/clickyGame/static/css/main.e949839c.chunk.css.map"
   }
