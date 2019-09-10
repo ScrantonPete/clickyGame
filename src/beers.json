@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Wallenpaupack - Femme Brutale",
-    "image": "assets/images/beer01.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer01.jpg",
     "url": "http://www.wallenpaupackbrewingco.com/",
     "unTappd": "https://untappd.com/b/wallenpaupack-brewing-company-femme-brutale/3055655",
     "clicked": false
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Mikkeller - Brunch Weasel",
-    "image": "assets/images/beer02.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer02.jpg",
     "url": "http://mikkeller.dk/brewery/",
     "unTappd": "https://untappd.com/b/mikkeller-beer-geek-brunch-weasel/8391",
     "clicked": false
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Troeg's - Nugget Nectar",
-    "image": "assets/images/beer03.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer03.jpg",
     "url": "https://troegs.com/",
     "unTappd": "https://untappd.com/b/troegs-independent-brewing-nugget-nectar/3757",
     "clicked": false
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Alchemist - Heady Topper",
-    "image": "assets/images/beer04.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer04.jpg",
     "url": "https://alchemistbeer.com/",
     "unTappd": "https://untappd.com/b/the-alchemist-heady-topper/4691",
     "clicked": false
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "TreeHouse - Julius",
-    "image": "assets/images/beer05.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer05.jpg",
     "url": "https://www.treehousebrew.com/",
     "unTappd": "https://untappd.com/b/tree-house-brewing-company-julius/237985",
     "clicked": false
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Ommegang - Game of Thrones: Hand of the Queen",
-    "image": "assets/images/beer06.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer06.jpg",
     "url": "https://www.ommegang.com/",
     "unTappd": "https://untappd.com/b/brewery-ommegang-game-of-thrones-hand-of-the-queen/2542955",
     "clicked": false
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Left Hand - NITRO Milk Stout",
-    "image": "assets/images/beer07.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer07.jpg",
     "url": "http://lefthandbrewing.com/",
     "unTappd": "https://untappd.com/b/left-hand-brewing-company-milk-stout-nitro/82680",
     "clicked": false
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Adroit Theory - Death of Civilization in Slow Motion - Valkyrie Edition",
-    "image": "assets/images/beer08.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer08.jpg",
     "url": "https://www.adroit-theory.com/",
     "unTappd": "https://untappd.com/b/adroit-theory-the-death-of-civilization-in-slow-motion-valkyrie-edition-ghost-623/2617902",
     "clicked": false
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "Dogfish - Flaming Lips - Dragon's and Yum Yums",
-    "image": "assets/images/beer09.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer09.jpg",
     "url": "https://www.dogfish.com",
     "unTappd": "https://untappd.com/b/dogfish-head-craft-brewery-dragons-and-yumyums/2522775",
     "clicked": false
@@ -75,7 +75,7 @@
   {
     "id": 10,
     "name": "Breaker - Breakfast Club - The Princess",
-    "image": "assets/images/beer10.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer10.jpg",
     "url": "http://www.breakerbrewingcompany.com/",
     "unTappd": "https://untappd.com/b/breaker-brewing-company-the-breakfast-club-the-princess/2699599",
     "clicked": false
@@ -84,7 +84,7 @@
   {
     "id": 11,
     "name": "Levante - Tickle Parts - Passionfruit",
-    "image": "assets/images/beer11.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer11.jpg",
     "url": "https://www.levantebrewing.com/",
     "unTappd": "https://untappd.com/b/levante-brewing-company-tickle-parts-passionfruit/3358116",
     "clicked": false
@@ -93,7 +93,7 @@
   {
     "id": 12,
     "name": "Toppling Goliath - Psuedo Sue",
-    "image": "assets/images/beer12.jpg",
+    "image": "%PUBLIC_URL%/assets/images/beer12.jpg",
     "url": "https://www.tgbrews.com/",
     "unTappd": "https://untappd.com/b/toppling-goliath-brewing-co-pseudo-sue/65644",
     "clicked": false
