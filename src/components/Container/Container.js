@@ -77,7 +77,7 @@ class Container extends Component {
                   name={beer.name}
                   key={beer.name}
                   handleClick={this.handleClick}
-                  src={beer.image}
+                  src={process.env.PUBLIC_URL + beer.image}
                   alt={beer.name}
                 />
               );
